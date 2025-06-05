@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Diksi Aisyah
-
 🌱 I’m currently learning **Web Development** and **Python**  
 👩‍💻 I'm interested in **Software Engineering** and **Clean Energy Technology**  
 📫 You can reach me at aisyahdiksi@gmail.com
