@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **Web Development** and **Python**  
 👩‍💻 I'm interested in **Software Engineering** and **Clean Energy Technology**  
-📫 You can reach me at aisyahdiksi%40gmail.com
+📫 You can reach me at aisyahdiksi@gmail.com
 📌 Fun fact: I love combining tech with sustainability 🌱⚡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diksiaisyah-blue?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/diksiaisyah)
